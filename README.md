@@ -9,4 +9,5 @@ CSS
 ### How to Run
 To run the project, ensure you have SASS installed, and use the following command to compile the SASS files:
 
-```sass --watch scss:css```
+```bash
+sass --watch scss:css
